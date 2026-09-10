@@ -61,4 +61,4 @@ php spark serve
 * Five sample customer records
 * Five sample user or staff records
 * Static PHP arrays used as temporary data sources
-* HTML tables created using PHP `foreach` loops
+* HTML tables created using PHP `foreach` loops.
